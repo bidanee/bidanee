@@ -1,7 +1,7 @@
 ### Hi 👋, I'm DanBi
 
 <h3 align="center">Passionate Full Stack junior developer</h3>
-<h5 align="center">🐣 I’m currently learning python, Docker 🐣</h5>
+<h5 align="center">🐣 I’m currently learning python, Docker, AWS 🐣</h5>
 <br></br>
 
 <h3 align="left">⚔️ My Skills</h3>
