@@ -32,5 +32,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bidanee&show_icons=true&locale=en" alt="bidanee" /></p>
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/bidanee?pet-id=93098737591282393" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/bidanee?pet-id=733860809288753726" width="1000" height="120"/>
 </a>
+
+  
