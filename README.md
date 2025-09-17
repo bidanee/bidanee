@@ -1,7 +1,7 @@
 ### Hi 👋, I'm DanBi
 
 <h3 align="center">Full Stack Developer in Growth</h3>
-<h5 align="center">🐣 Continuously learning Python, FastAPI, Docker, AWS, and AI 🐣</h5>
+<h5 align="center">🐣 Continuously learning Python, FastAPI, Node.js, Docker, AWS, and AI 🐣</h5>
 <br></br>
 
 <h3 align="left">⚔️ My Skills</h3>
